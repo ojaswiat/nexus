@@ -14,11 +14,11 @@ export default function AppFooter() {
             <p className="text-md">by</p>
             <Link
                 className="font-bold hover:underline text-primary"
-                href="https://decoyder.me"
+                href="https://ojaswiat.com"
                 rel="noreferrer"
                 target="_blank"
             >
-                Decoyder
+                Ojaswi Athghara (Arsh)
             </Link>
         </footer>
     );
