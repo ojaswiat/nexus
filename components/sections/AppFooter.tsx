@@ -18,7 +18,7 @@ export default function AppFooter() {
                 rel="noreferrer"
                 target="_blank"
             >
-                Ojaswi Athghara (Arsh)
+                Ojas
             </Link>
         </footer>
     );
